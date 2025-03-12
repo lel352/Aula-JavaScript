@@ -7,3 +7,4 @@
     * Aula 02 - pegando valores de entrada do usuário e escrevendo na tela
     * Aula 03 - estruturas condicionais (if else) e operadores relacionais
     * Aula 04 - arrays (listas), estruturas de repetição (for) e escopo
+    * Aula 05 - métodos de array (deletando e editando itens em lista)
